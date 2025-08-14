@@ -47,14 +47,14 @@ We update the latest version of our code.
 ## Introduction
 
 We propose PlanAgent, the first mid-to-mid planning system based on a Multi-modal Large Language Model (MLLM). MLLM is used as a cognitive agent to introduce human-like knowledge, interpretability, and commonsense reasoning into the closed-loop planning. Specifically, PlanAgent leverages the power of MLLM through three core modules. First, an Environment Transformation module constructs a Bird’s Eye View (BEV) map and a lane-graph-based textual description from the environment as inputs. Second, a Reasoning Engine module introduces a hierarchical chain-of-thought from scene understanding to lateral and longitudinal motion instructions, culminating in planner code generation. Last, a Reflection module is integrated to simulate and evaluate the generated planner for reducing MLLM’s uncertainty. PlanAgent is endowed with the common-sense reasoning and generalization capability of MLLM, which empowers it to effectively tackle both common and complex long-tailed scenarios.
-<div align=center> <img src="docs/teaser.jpg" width="850"/> </div>
+<div align=center> <img src="docs/main.png" width="850"/> </div>
 
 ## Note
 This reposity will be updated soon, including:
 - [x] **Initialization**.
 - [x] Uploading the codes of **PlanAgent**.
-- [] Uploading the detailed **Installation** guidelines.
-- [] Uploading the **Training** and **Evaluation** scripts.
+- [ ] Uploading the detailed **Installation** guidelines.
+- [ ] Uploading the **Training** and **Evaluation** scripts.
 - [x] Uploading the **Visualization** scripts.
 - [ ] Uploading the support for **Other MLLMs**.
 
