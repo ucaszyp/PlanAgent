@@ -6,7 +6,7 @@
 
 <br/>
 
-> [**Parting with Misconceptions about Learning-based Vehicle Motion Planning**](https://arxiv.org/abs/2306.07962)  <br>
+> [**PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**]([[https://arxiv.org/abs/2306.07962](https://arxiv.org/abs/2406.01587)](https://arxiv.org/abs/2406.01587))  <br>
 > [Daniel Dauner](https://danieldauner.github.io/)<sup>1,2</sup>, [Marcel Hallgarten](https://mh0797.github.io/)<sup>1,3</sup>, [Andreas Geiger](https://www.cvlibs.net/)<sup>1,2</sup>, and [Kashyap Chitta](https://kashyap7x.github.io/)<sup>1,2</sup>  <br>
 > <sup>1</sup> University of Tübingen, <sup>2</sup> Tübingen AI Center, <sup>3</sup> Robert Bosch GmbH <br>
 > <br>
